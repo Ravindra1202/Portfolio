@@ -1,0 +1,43 @@
+ 
+.menuicon{
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+.menuicon img{
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+    /* padding: 50px 20px; */
+
+}
+.menucontact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    position: relative;
+    /* margin-top: 100px; */
+    margin-bottom: 20px;
+    padding: 70px;
+}
+.menucontact img{
+    height: 30px;
+    width: 30px;
+    padding: 20px 0;
+    border-radius: 10px; 
+}
+.menucloud{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.menucloud img{
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    align-items: center;
+     
+}
+ 

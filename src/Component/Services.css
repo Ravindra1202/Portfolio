@@ -1,0 +1,25 @@
+.myservices{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    columns: 2;
+    padding: 20px;
+   
+  
+}
+.image img{
+    height: 20px;
+    width: 20px;
+    border-radius: 7px;
+    padding: 5px;
+}
+.data{
+    height: 150px;
+    width: 95%;
+    background-color: rgb(255, 221, 179);
+        
+}
+.heading h3{
+    margin-top: -5px;
+    padding: 5px;
+}
